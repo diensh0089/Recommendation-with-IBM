@@ -1,14 +1,20 @@
 # Recommendation-with-IBM
 
 Required libraries:
+
 python
+
 pandas
+
 numpy
+
 matplotlib
+
 sklearn
 
 
 Motivation
+
 In this project I am looking at the interactions between users and articles on the IBM Watson Studio platform.
 
 Files
